@@ -91,5 +91,4 @@ Return the minimum number of taps that should be open to water the whole garden,
     }
    
     if(!isAllPointsCovered(coveredRange, n)) return -1;
-   
 };
